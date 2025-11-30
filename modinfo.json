@@ -6,7 +6,7 @@
         "titans"
     ],
     "context": "client",
-    "date": "2025-06-15",
+    "date": "2025-11-30",
     "description": "This mod replaces normal icons with improved ones for increased strategic accuracy",
     "display_name": "Better Strategic Icons",
     "forum": "https://forums.planetaryannihilation.com/threads/client-better-strategic-icons.73610/",
@@ -17,4 +17,5 @@
     "titansOnly": true
 
 }
+
 
